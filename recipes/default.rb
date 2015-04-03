@@ -6,7 +6,7 @@
 
 include_recipe 'apache-woo::instaLOL'
 
-cookbook_file '/var/www/index.html' do
+cookbook_file '/var/www/html/index.html' do
   source 'index.html'
   owner 'root'
   group 'root'

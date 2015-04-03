@@ -4,6 +4,6 @@ maintainer_email 'you@example.com'
 license          'all_rights'
 description      'Installs/Configures super-real-app'
 long_description 'Installs/Configures super-real-app'
-version          '1.0.0'
+version          '1.0.1'
 
 depends 'apache-woo', '~> 1.0'
